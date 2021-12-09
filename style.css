@@ -63,7 +63,7 @@ header {
     justify-content: space-evenly;
     flex-wrap:wrap;
   }
-  .services.serv-container.card {
+  .serv-container.card {
     background: rgb(255, 255, 255);
     box-shadow: 0px 5px 2px gray;
     width: 280px;
