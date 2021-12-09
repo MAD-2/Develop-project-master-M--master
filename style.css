@@ -61,6 +61,7 @@ header {
     display: flex; /* row */
     align-items: center;
     justify-content: space-evenly;
+    flex-wrap:wrap;
   }
   .services.serv-container.card {
     background: rgb(255, 255, 255);
