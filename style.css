@@ -88,7 +88,7 @@ header {
     width: 60%;
     margin: 12%;
   }
-  #about-us{
+  .h2-about-us{
     display:grid;
   }
   .img-about-us{
