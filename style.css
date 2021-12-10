@@ -90,6 +90,11 @@ header {
   }
   .h2-about-us{
     display:grid;
+    color: #00a69c;
+    font-weight: bold;
+    font-size: 45px;
+
+
   }
   .img-about-us{
     max-width: 8px;
